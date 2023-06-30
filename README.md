@@ -16,6 +16,12 @@ python3 anti.py tools
   * ☢️  PING | Serverların pinlglerini ölçer.
   * ✔️ CHECK | Sitelerin durumunu checkler.
 
+**Nasıl kullanılır?**
+
+```shell
+python3 .\anti.py <method> <ip:port> <threads> <duration> <config.json (Yalnızca Güçlendirme)>
+ÖRNEK ÇIKTI: python3 .\anti.py VSE 62.106.84.67:8332 2 1000 config.json 100 600> not: ip - port - method ve diğer değişkenleri kendinize göre değiştirin.
+```
 
 **Gerekliler**
 
