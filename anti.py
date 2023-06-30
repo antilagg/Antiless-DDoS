@@ -543,9 +543,9 @@ class ToolsConsole:
                   '\n'
                   f'{renkkodlari.HEADER }Örnek:\n'
                   f'{renkkodlari.BOLD}%s\n'
-                  f'{renkkodlari.OKCYAN}   Layer4: python3 %s <method> <ip:port> <threads> <duration>\n'
-                  f'{renkkodlari.OKCYAN}   Layer4 Proxy: python3 %s <method> <ip:port> <threads> <duration> <socks_type> <proxylist>\n'
-                  f'{renkkodlari.OKCYAN}   Layer4 Güçlendirmeli: python3 %s <method> <ip:port> <threads> <duration> <config.json (Yalnızca Güçlendirme)>\n') %
+                  f'{renkkodlari.BOLD}%s\n'
+                  f'{renkkodlari.OKCYAN}   Layer4 Güçlendirmeli: python3 %s <method> <ip:port> <threads> <duration> <config.json (Yalnızca Güçlendirme)>\n'
+                  f'{renkkodlari.OKCYAN}   ÖRNEK ÇIKTI: python3 %s{renkkodlari.FAIL } VSE {renkkodlari.FAIL }62.106.84.67:8332{renkkodlari.FAIL } 2 1000{renkkodlari.FAIL } config.json {renkkodlari.FAIL }100 {renkkodlari.FAIL }600> {renkkodlari.OKGREEN }not: ip - port - method ve diğer değişkenleri kendinize göre değiştirin.\n') %
               (len(Methods.ALL_METHODS) + 3 + len(ToolsConsole.METHODS),
                ", ".join(Methods.LAYER4_METHODS), len(Methods.LAYER4_METHODS),
                ", ".join(ToolsConsole.METHODS), len(ToolsConsole.METHODS),
