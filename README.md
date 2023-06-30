@@ -6,8 +6,8 @@
 ## Özellikler ve methodlar
 
 * Layer4: 
-  * <img src UDP | UDP Flood Bypass
-  * <img src VSE | Protokol gönderimi (DDraceNetwork ✅)
+  * UDP | UDP Flood Bypass
+  * VSE | Protokol gönderimi (DDraceNetwork ✅)
 
 * ⚙️ Tools - Nasıl kullanılır
 `
