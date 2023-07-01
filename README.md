@@ -4,7 +4,7 @@
 
 
 <em><h5 align="center">(If it worked for you, don't forget to Fork and Star)</h5></em>
-
+<em><h5 align="center">(Eğer işine yaradıysa Fork ve Star atmayı unutma)</h5></em>
 
 
 ## Özellikler ve methodlar
