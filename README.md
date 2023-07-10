@@ -1,5 +1,5 @@
 
-<em><h5 align="center">AntiLess - DDoS Saldırı Scripti > 9 Method</h5></em>
+<em><h5 align="center">AntiLess - DDoS Saldırı Scripti > 2 Method</h5></em>
 <em><h5 align="center">(Programlanma dili - Python 3)</h5></em>
 
 
