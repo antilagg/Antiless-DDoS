@@ -11,7 +11,7 @@
 
 * Layer4: 
   * UDP | UDP Flood Bypass
-  * VSE | Protokol gönderimi (DDraceNetwork ✅)
+  * VSE | Protokol gönderimi
 
 * ⚙️ Tools - Nasıl kullanılır
 `
